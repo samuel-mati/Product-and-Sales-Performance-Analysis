@@ -1,7 +1,9 @@
 # Product and Sales Performance Analysis
 
 **Prepared by:** Samuel Mati
+
 **Role:** Data Analyst | Business Intelligence Developer
+
 **Date:** 6th December 2025
 
 ---
