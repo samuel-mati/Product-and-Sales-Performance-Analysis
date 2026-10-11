@@ -18,8 +18,8 @@ Key outcomes:
 
 - Total Sales: 10.1M, up 28.7% year over year
 - Customer Base: 500, up 53.8% year over year
-- Sales per Customer: 20.2K, down 16.4% — a retention gap
-- Average Order Value: 14.83K, down 1.9% — stable pricing
+- Sales per Customer: 20.2K, down 16.4% - a retention gap
+- Average Order Value: 14.83K, down 1.9% -stable pricing
 
 The dashboard gave leadership the ability to prioritize high-performing regions, optimize product portfolios, and design retention-driven marketing strategies.
 
@@ -64,11 +64,11 @@ Skills applied: Power BI (data modeling, DAX, interactive dashboards, slicers an
 
 | KPI | 2025 Value | YoY Change | Business Interpretation |
 |:----|------------:|:-----------:|:------------------------|
-| Total Sales | 10.10M | Up 28.7% | Strong overall revenue growth — a healthy market position |
-| Total Orders | 681 | Up 31.2% | Increased transaction volume — higher market activity |
-| Total Customers | 500 | Up 53.8% | Excellent acquisition — successful outreach campaigns |
-| Sales per Customer | 20.20K | Down 16.4% | Customer spend dropped — retention or cross-sell gap |
-| Average Order Value | 14.83K | Down 1.9% | Stable order size — suggests competitive pricing pressure |
+| Total Sales | 10.10M | Up 28.7% | Strong overall revenue growth - a healthy market position |
+| Total Orders | 681 | Up 31.2% | Increased transaction volume - higher market activity |
+| Total Customers | 500 | Up 53.8% | Excellent acquisition - successful outreach campaigns |
+| Sales per Customer | 20.20K | Down 16.4% | Customer spend dropped - retention or cross-sell gap |
+| Average Order Value | 14.83K | Down 1.9% | Stable order size - suggests competitive pricing pressure |
 
 ---
 
